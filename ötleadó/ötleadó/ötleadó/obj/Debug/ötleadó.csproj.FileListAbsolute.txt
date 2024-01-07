@@ -1,0 +1,11 @@
+D:\ötleadó\ötleadó\bin\Debug\ötleadó.exe.config
+D:\ötleadó\ötleadó\bin\Debug\ötleadó.exe
+D:\ötleadó\ötleadó\bin\Debug\ötleadó.pdb
+D:\ötleadó\ötleadó\obj\Debug\ötleadó.csproj.AssemblyReference.cache
+D:\ötleadó\ötleadó\obj\Debug\ötleadó.csproj.SuggestedBindingRedirects.cache
+D:\ötleadó\ötleadó\obj\Debug\ötleadó.Properties.Resources.resources
+D:\ötleadó\ötleadó\obj\Debug\ötleadó.csproj.GenerateResource.cache
+D:\ötleadó\ötleadó\obj\Debug\ötleadó.csproj.CoreCompileInputs.cache
+D:\ötleadó\ötleadó\obj\Debug\ötleadó.exe
+D:\ötleadó\ötleadó\obj\Debug\ötleadó.pdb
+D:\ötleadó\ötleadó\obj\Debug\ötleadó.Form1.resources
